@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border-bottom: 0px;
+    color:#fff;
+}
+body{
+    background-color:hsl(0, 78%, 0%);
+}
+h1{
+    text-align: center;
+}
+ul{ font-size: 18pt;
+    list-style: none;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-evenly;
+    padding-top: 50px;
+}
+.texto-apresentacao{
+    position: absolute;
+    right:200px;
+    top:180px;
+    background-color: red;
+    width:500px;
+    height:300px;
+    border-radius: 15px;
+}
+img{
+    border-radius: 15px;
+    width:500px;
+    height:300px;
+    position: absolute;
+    top: 180px;
+    left: 140px;
+}
+.github-link{
+    position: absolute;
+    bottom: 130px;
+    left:250px;
+    background-color: blue;
+    width:100px;
+    height: 80px;
+}
+.likedin-link{
+    background-color: blue;
+    width:100px;
+    height: 80px;
+    position: absolute;
+    bottom: 130px;
+    left:450px;
+}
