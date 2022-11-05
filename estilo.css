@@ -39,14 +39,22 @@ img{
     bottom: 130px;
     left:250px;
     background-color: blue;
-    width:100px;
-    height: 80px;
+    width:60px;
+    height: 60px;
+    border-radius: 15px;
+    background-image: url(imagens/GitHub-logo.png);
+    background-repeat:no-repeat;
+    background-size:contain;
 }
 .likedin-link{
     background-color: blue;
-    width:100px;
-    height: 80px;
+    width:60px;
+    height: 60px;
     position: absolute;
     bottom: 130px;
     left:450px;
+    border-radius: 15px;
+    background-image: url(imagens/likedin-3.png);
+    background-repeat:no-repeat;
+    background-size:contain;
 }
