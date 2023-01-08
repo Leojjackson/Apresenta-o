@@ -5,7 +5,7 @@
     color:#fff;
 }
 body{
-    background-color:hsl(240, 100%,0%);
+    background-color:hsl(200,100%,50%);
 }
 li:hover{
     opacity:0.6;
@@ -83,7 +83,7 @@ img{
     background-color: blue;
     width:60px;
     height: 60px;
-    border-radius: 15px;
+    border-radius: 50%;
     background-image: url(imagens/GitHub-logo.png);
     background-repeat:no-repeat;
     background-size:contain;
@@ -95,7 +95,7 @@ img{
         position: absolute;
         top: 190px;
         right:550px;
-        border-radius: 15px;
+        border-radius: 50%;
         background-image: url(imagens/likedin-3.png);
         background-repeat:no-repeat;
         background-size:contain;
