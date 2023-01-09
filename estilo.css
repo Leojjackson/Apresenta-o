@@ -84,10 +84,15 @@ img{
     width:60px;
     height: 60px;
     border-radius: 50%;
-    background-image: url(imagens/GitHub-logo.png);
-    background-repeat:no-repeat;
-    background-size:contain;
-} 
+}
+#img-git{
+    width:100%;
+    height: 100%;
+    position:relative;
+    top: 0px;
+    right:0px;
+    border-radius:50%;
+}
     .likedin-link{
         background-color: blue;
         width:60px;
@@ -96,7 +101,12 @@ img{
         top: 190px;
         right:550px;
         border-radius: 50%;
-        background-image: url(imagens/likedin-3.png);
-        background-repeat:no-repeat;
-        background-size:contain;
+    }
+    #img-linke{
+        width:100%;
+        height: 100%;
+        position:relative;
+        top: 0px;
+        right:0px;
+        border-radius:50%;
     }
